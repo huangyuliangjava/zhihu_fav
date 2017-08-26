@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 from bs4 import BeautifulSoup
 header={	
         'User-Agent':'Mozilla/5.0 (Linux; U; Android 4.4.2; zh-CN; ZTE Grand S II LTE Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Quark/2.0.0.918 Mobile Safari/537.36',
-
+#第一次修改
 #rrrrrr        
 	}
 h=open('/sdcard/html','r')
